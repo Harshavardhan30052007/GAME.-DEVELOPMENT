@@ -22,6 +22,7 @@ Name: HARSHAVARDHAN.K.B
    Step 7 : stop.
 
 **Program :**
+```
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
@@ -116,7 +117,7 @@ int main()
     return 0; 
 }
 
-
+```
 **Output :**
 ![Screenshot 2025-04-27 124910](https://github.com/user-attachments/assets/cfb92fea-01c8-42c8-b68f-a4717a8f992c)
 
