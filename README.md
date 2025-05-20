@@ -1,6 +1,9 @@
 # EX 2 : Bresenham‘s Line Drawing Algorithm
+
 Register No: 212224240054
+
 Name: HARSHAVARDHAN.K.B
+
 **AIM :**
 
  To  implement the Bresenham’s  algorithm for line using a c coding.
